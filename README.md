@@ -1,12 +1,5 @@
 # Travello-Traveling-Website-Landing-Page
-Travello Traveling Website Landing Page — A responsive and modern travel booking page built with HTML and CSS. Features a clean layout and intuitive design where users can “book trips in minutes and gain full control for much longer.” Focused on usability and mobile-friendly experience.
-
----
-
-## ✈️ Travello Traveling Website Landing Page
-
-A **responsive travel booking landing page** built with **HTML** and **CSS**, designed for **Travello** — a platform that helps users plan and book their trips effortlessly.
-The design emphasizes clarity, control, and a smooth user experience: *“Book your trip in minutes and gain full control for much longer.”*
+Travello Traveling Website Landing Page — A responsive and modern travel booking page built with HTML and CSS. Features a clean layout and intuitive design where users can “book trips in minutes and gain full control for much longer.”
 
 ---
 
@@ -18,7 +11,6 @@ This project demonstrates practical skills in building visually appealing, mobil
 
 ### ✨ **Features**
 
-* 📱 Fully responsive layout for all devices
 * 🎨 Clean, user-focused design and navigation
 * 🗺️ Travel-inspired theme with clear calls to action
 * ⚙️ Well-structured and maintainable HTML/CSS code
